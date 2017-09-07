@@ -1,4 +1,4 @@
 <?php
 
-echo "Meu primeiro codigo PHP!";
+echo "Meu primeiro codigo PHP! vai dar erro";
 ?>
