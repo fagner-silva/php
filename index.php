@@ -1,4 +1,3 @@
 <?php
-
-echo "Meu primeiro codigo PHP! vai dar erro";
+echo "Meu primeiro codigo PHP! 06/09/2017";
 ?>
